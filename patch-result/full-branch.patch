@@ -1,0 +1,89 @@
+From fcfc04ebb0b0aab7efc84d8dc41a485499f933e4 Mon Sep 17 00:00:00 2001
+From: Jaspinder Kaur <jaspinderk622@gmail.com>
+Date: Tue, 3 Jun 2025 15:08:49 +0530
+Subject: [PATCH 1/4] Add both files in a single commit
+
+---
+ wish-2025-ti-temp.txt | 0
+ wish-2025-ti.txt      | 1 +
+ 2 files changed, 1 insertion(+)
+ create mode 100644 wish-2025-ti-temp.txt
+ create mode 100644 wish-2025-ti.txt
+
+diff --git a/wish-2025-ti-temp.txt b/wish-2025-ti-temp.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/wish-2025-ti.txt b/wish-2025-ti.txt
+new file mode 100644
+index 0000000..45b983b
+--- /dev/null
++++ b/wish-2025-ti.txt
+@@ -0,0 +1 @@
++hi
+-- 
+2.49.0.windows.1
+
+
+From 3c6f86d4c8b99a795b8dc6073304049dd1421b51 Mon Sep 17 00:00:00 2001
+From: Jaspinder Kaur <jaspinderk622@gmail.com>
+Date: Tue, 3 Jun 2025 15:27:02 +0530
+Subject: [PATCH 2/4] Add rebase.txt to confirm rebase
+
+---
+ rebase.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 rebase.txt
+
+diff --git a/rebase.txt b/rebase.txt
+new file mode 100644
+index 0000000..d2129da
+--- /dev/null
++++ b/rebase.txt
+@@ -0,0 +1 @@
++"rebase file"
+-- 
+2.49.0.windows.1
+
+
+From 2f875d25c0c1b133f9b40d9b2c8492d69c401c8f Mon Sep 17 00:00:00 2001
+From: Jaspinder Kaur <jaspinderk622@gmail.com>
+Date: Tue, 3 Jun 2025 15:45:57 +0530
+Subject: [PATCH 3/4] add stash.txt
+
+---
+ stash.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 stash.txt
+
+diff --git a/stash.txt b/stash.txt
+new file mode 100644
+index 0000000..9203376
+--- /dev/null
++++ b/stash.txt
+@@ -0,0 +1 @@
++The file is here to tell the diff
+-- 
+2.49.0.windows.1
+
+
+From 8863bae4ca897a74fa12794a16d15269f626d4dd Mon Sep 17 00:00:00 2001
+From: Jaspinder Kaur <jaspinderk622@gmail.com>
+Date: Tue, 3 Jun 2025 15:48:01 +0530
+Subject: [PATCH 4/4] Add cherry-pick
+
+---
+ cherry-pick.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 cherry-pick.txt
+
+diff --git a/cherry-pick.txt b/cherry-pick.txt
+new file mode 100644
+index 0000000..e8d31ae
+--- /dev/null
++++ b/cherry-pick.txt
+@@ -0,0 +1 @@
++Cherry pick is used to commit one or more existing commit from one branch and apply it
+\ No newline at end of file
+-- 
+2.49.0.windows.1
+

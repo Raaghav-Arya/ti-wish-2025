@@ -1,0 +1,20 @@
+From 2f875d25c0c1b133f9b40d9b2c8492d69c401c8f Mon Sep 17 00:00:00 2001
+From: Jaspinder Kaur <jaspinderk622@gmail.com>
+Date: Tue, 3 Jun 2025 15:45:57 +0530
+Subject: [PATCH] add stash.txt
+
+---
+ stash.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 stash.txt
+
+diff --git a/stash.txt b/stash.txt
+new file mode 100644
+index 0000000..9203376
+--- /dev/null
++++ b/stash.txt
+@@ -0,0 +1 @@
++The file is here to tell the diff
+-- 
+2.49.0.windows.1
+
