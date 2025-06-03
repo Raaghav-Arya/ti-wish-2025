@@ -1,0 +1,1 @@
+Git cherry-pick is used to apply the changes introduced by some existing commits.
