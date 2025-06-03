@@ -1,0 +1,20 @@
+From 052eb2ab1e8ae0ac430be4d8274093e0930f886c Mon Sep 17 00:00:00 2001
+From: Humshini S B <humshinikumar@gmail.com>
+Date: Tue, 3 Jun 2025 17:06:56 +0530
+Subject: [PATCH] Add hobbies.txt with my hobbies
+
+---
+ hobbies.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hobbies.txt
+
+diff --git a/hobbies.txt b/hobbies.txt
+new file mode 100644
+index 0000000..a6a6b4d
+--- /dev/null
++++ b/hobbies.txt
+@@ -0,0 +1 @@
++Reading, Writing, Painting
+-- 
+2.47.0.windows.2
+
