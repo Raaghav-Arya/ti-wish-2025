@@ -1,0 +1,10 @@
+git commit:
+- Saves changes permanently to the repository history.
+- Requires a commit message.
+- Changes become part of the project history.
+
+git stash:
+- Temporarily saves changes without committing.
+- Useful to switch branches without committing unfinished work.
+- Changes are saved in a stack and can be reapplied later.
+
