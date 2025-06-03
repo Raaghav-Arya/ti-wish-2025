@@ -1,0 +1,30 @@
+From 57d6aa40265aaa75ec2f67f573b370240f08477e Mon Sep 17 00:00:00 2001
+From: Archika <archikakaran@gmail.com>
+Date: Tue, 3 Jun 2025 15:46:39 +0530
+Subject: [PATCH] Add stash.txt explaining difference between git commit and
+ git stash
+
+---
+ stash.txt | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+ create mode 100644 stash.txt
+
+diff --git a/stash.txt b/stash.txt
+new file mode 100644
+index 0000000..fa67e64
+--- /dev/null
++++ b/stash.txt
+@@ -0,0 +1,10 @@
++git commit:
++- Saves changes permanently to the repository history.
++- Requires a commit message.
++- Changes become part of the project history.
++
++git stash:
++- Temporarily saves changes without committing.
++- Useful to switch branches without committing unfinished work.
++- Changes are saved in a stack and can be reapplied later.
++
+-- 
+2.47.0.windows.2
+
