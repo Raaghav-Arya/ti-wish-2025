@@ -1,0 +1,10 @@
+This file explains the difference between git commit and git stash.
+
+Difference between git commit and git stash:
+
+- git commit: Saves your changes to the local repository history. These are permanent and part of your project's history.
+- git stash: Temporarily shelves (or stashes) changes that you don’t want to commit yet. You can reapply them later.
+
+I AM ADDING A SENTENCE TO STASH AND RESTORE
+
+check2
