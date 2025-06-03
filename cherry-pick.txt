@@ -1,0 +1,1 @@
+Cherry pick is used to commit one or more existing commit from one branch and apply it
