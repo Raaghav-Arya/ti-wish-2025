@@ -1,0 +1,20 @@
+From 16b5d310fbdef63885c43116be184a11305f32e3 Mon Sep 17 00:00:00 2001
+From: eku2005 <152699937+eku2005@users.noreply.github.com>
+Date: Tue, 3 Jun 2025 15:27:45 +0530
+Subject: [PATCH 4/4] Add cherry-pick.txt explaining cherry-pick
+
+---
+ cherry-pick.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 cherry-pick.txt
+
+diff --git a/cherry-pick.txt b/cherry-pick.txt
+new file mode 100644
+index 0000000..126b1a2
+--- /dev/null
++++ b/cherry-pick.txt
+@@ -0,0 +1 @@
++Git cherry-pick lets you apply specific commits from one branch to another.
+-- 
+2.47.1.windows.1
+

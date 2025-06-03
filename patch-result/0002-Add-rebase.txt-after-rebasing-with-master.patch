@@ -1,0 +1,20 @@
+From 290fb72bf1575ebc2bae2fa6bb7884a76a72532a Mon Sep 17 00:00:00 2001
+From: eku2005 <152699937+eku2005@users.noreply.github.com>
+Date: Tue, 3 Jun 2025 15:19:51 +0530
+Subject: [PATCH 2/4] Add rebase.txt after rebasing with master
+
+---
+ rebase.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 rebase.txt
+
+diff --git a/rebase.txt b/rebase.txt
+new file mode 100644
+index 0000000..0ebd9fa
+--- /dev/null
++++ b/rebase.txt
+@@ -0,0 +1 @@
++This file was added after rebase
+-- 
+2.47.1.windows.1
+
